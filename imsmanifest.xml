@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_617qsUbqfRy" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">DAIconnect Navigation Scavenger Hunt</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Practice navigating the DAIconnect menu by searching for key pages in this scavenger hunt simulation.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="DAIconnect_Navigation_Scavenger_Hunt_ORG">
+    <organization identifier="DAIconnect_Navigation_Scavenger_Hunt_ORG">
+      <title>DAIconnect Navigation Scavenger Hunt</title>
+      <item identifier="DAI_Connect_Nav12.30-DAIL24067_SCO" isvisible="true" identifierref="__617qsUbqfRy_RES">
+        <title>DAIconnect Navigation Scavenger Hunt</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__617qsUbqfRy_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6rjkQhEqfAM.png" />
+      <file href="mobile/5mGYqsCuWBH_P_200_280_527_621.png" />
+      <file href="story_content/5dGjwYU7VFM_44100_96_1.mp3" />
+      <file href="mobile/6AdgSjheWU1_D8DEE4.gif" />
+      <file href="story_content/6b3PWmvSqyP_44100_96_1.mp3" />
+      <file href="mobile/5mGYqsCuWBH.png" />
+      <file href="story_content/5vORtsI5u6N_44100_96_1.mp3" />
+      <file href="mobile/5X9szm3qK4n_P_212_192_620_702.png" />
+      <file href="mobile/6MYRB0T4f0f.png" />
+      <file href="mobile/6pOht2TD5is.png" />
+      <file href="mobile/6mlPdUCXjoK.png" />
+      <file href="mobile/62eOVwZHy8g.png" />
+      <file href="mobile/5qheCrzb6oX_P_0_0_1378_744.png" />
+      <file href="mobile/6mvk1TsCJwE_P_0_0_1280_695.gif" />
+      <file href="story_content/5Zk7GEtJZSM_44100_96_1.mp3" />
+      <file href="mobile/6ooXkAWfgRC.png" />
+      <file href="mobile/6QXrEGuSoxy_P_0_52_1907_52.png" />
+      <file href="mobile/6CaH6naSdBd_P_132_104_826_864.png" />
+      <file href="mobile/5l5EB6VrPMm.png" />
+      <file href="mobile/6oBj8AitDuB.png" />
+      <file href="mobile/5kcATXd6R4j_P_70_110_972_866.png" />
+      <file href="mobile/6qgGAKKqmez.png" />
+      <file href="mobile/6g5d3tVUSHP_P_0_7_1228_640.gif" />
+      <file href="mobile/5Vwdzr45a7H.png" />
+      <file href="mobile/5kiFlPZJT4Y.png" />
+      <file href="mobile/6nVP92jIeie.png" />
+      <file href="mobile/5kIlE6n5q2C_P_0_16_1280_684.gif" />
+      <file href="mobile/5WMRc89feEp.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5ZA8JUsGgVx.png" />
+      <file href="mobile/Shape6nP1JcEYh6u.png" />
+      <file href="mobile/Shape6mI4d7WYxL1.png" />
+      <file href="mobile/Shape5ha84QAWbJh.png" />
+      <file href="mobile/Shape6XkB79iMqTr.png" />
+      <file href="mobile/Shape6Mz1kgQVMz0.png" />
+      <file href="mobile/Shape5vqa89pFIXs.png" />
+      <file href="mobile/Shape5u1VAPCUh9G.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fN55RN15gQ.js" />
+      <file href="html5/data/js/6HtDZ9pCXXk.js" />
+      <file href="html5/data/js/6iCXvRy29ax.js" />
+      <file href="html5/data/js/6LxXrU5BhVD.js" />
+      <file href="html5/data/js/6mgoKBXPThi.js" />
+      <file href="html5/data/js/6OpZpbn7PtF.js" />
+      <file href="html5/data/js/6OxtoGNzodA.js" />
+      <file href="html5/data/js/6qGnnIPwShA.js" />
+      <file href="html5/data/js/6QvQYfy8a4p.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
